@@ -21,7 +21,6 @@ I'm a software developer from Poland primarily focused on **backend programming*
 
 ## 🚀 Featured Projects
 - **[mcup](https://github.com/kacper-jar/mcup)** (upcoming) - A command-line tool for quickly creating Minecraft servers.
-- **[HL2Patcher](https://github.com/kacper-jar/HL2Patcher)** – A tool for making Half-Life 2 playable on modern ARM Macs.
 
 ## 📬 Contact
 ![Discord](https://img.shields.io/badge/Kzl21-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=Discord)
