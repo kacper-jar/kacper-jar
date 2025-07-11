@@ -20,7 +20,7 @@ I'm a software developer from Poland primarily focused on **backend programming*
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Featured Projects
-- **[mcup](https://github.com/kacper-jar/mcup)** (upcoming) - A command-line tool for quickly creating Minecraft servers.
+- **[mcup](https://github.com/kacper-jar/mcup)** - A command-line tool for quickly creating Minecraft servers.
 
 ## 📬 Contact
 ![Discord](https://img.shields.io/badge/Kzl21-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=Discord)
