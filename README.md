@@ -28,6 +28,6 @@ I'm a software developer from Poland primarily focused on **backend programming*
 
 ## 📊 GitHub Stats & More
 <div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kacper-jar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=kacper-jar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacper-jar&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="kacper-jar's GitHub Stats" />
 </div>
