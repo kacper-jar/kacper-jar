@@ -21,7 +21,7 @@ I'm a software developer from Poland primarily focused on **backend programming*
 
 ## 🚀 Featured Projects
 - **[mcup](https://github.com/kacper-jar/mcup)** - A command-line tool for quickly creating Minecraft servers. ![GitHub Release](https://img.shields.io/github/v/release/kacper-jar/mcup?include_prereleases&style=flat-square)
-- **[HLPatcher](https://github.com/kacper-jar/HLPatcher)** - A tool for making Half-Life playable on modern ARM Macs. ![GitHub Release](https://img.shields.io/github/v/release/kacper-jar/HLPatcher?include_prereleases&style=flat-square)
+- **[HLPatcher](https://github.com/kacper-jar/HLPatcher)** - A tool for making Half-Life and other Valve games playable on modern ARM Macs. ![GitHub Release](https://img.shields.io/github/v/release/kacper-jar/HLPatcher?include_prereleases&style=flat-square)
 
 ## 📬 Contact
 ![Discord](https://img.shields.io/badge/Kzl21-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&label=Discord)
